@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="55" viewBox="0 0 56 55">
+  <g id="Group_13" data-name="Group 13" transform="translate(0.045)">
+    <text id="P" transform="translate(17.955 42)" fill="#eaf9e7" font-size="35" font-family="Dosis-Medium, Dosis" font-weight="500"><tspan x="0" y="0">P</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(-0.045 0)" fill="none" stroke="#eaf9e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke-dasharray="42">
+      <ellipse cx="28" cy="27.5" rx="28" ry="27.5" stroke="none"/>
+      <ellipse cx="28" cy="27.5" rx="26" ry="25.5" fill="none"/>
+    </g>
+  </g>
+</svg>
