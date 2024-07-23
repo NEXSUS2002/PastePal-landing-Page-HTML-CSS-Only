@@ -1,6 +1,4 @@
----
-
-# PastePal Landing Page
+ # PastePal-landing-Page-HTML-CSS-Only
 
 ## Overview
 Welcome to the **PastePal Landing Page** repository! This project showcases a clean and responsive landing page built with HTML and CSS. The landing page introduces **PastePal**, a web application designed to act as a clipboard that stores any copied and pasted files and documents, providing a reliable backup solution similar to iCloud.
