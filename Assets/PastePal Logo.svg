@@ -1,12 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="182" height="222" viewBox="0 0 182 222">
   <g id="PastePal_Logo" data-name="PastePal Logo" transform="translate(-549 -62)">
     <g id="Group_1" data-name="Group 1" transform="translate(0 -284)">
-      <text id="P" transform="translate(613 466)" fill="#013237" font-size="100" font-family="Dosis-Medium, Dosis" font-weight="500"><tspan x="0" y="0">P</tspan></text>
-      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(560 346)" fill="none" stroke="#013237" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" stroke-dasharray="117">
-        <circle cx="80.5" cy="80.5" r="80.5" stroke="none"/>
-        <circle cx="80.5" cy="80.5" r="74.5" fill="none"/>
+      <text id="P" transform="translate(613 466)" fill="#013237" font-size="100"
+        font-family="Dosis-Medium, Dosis" font-weight="500">
+        <tspan x="0" y="0">P</tspan>
+      </text>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(560 346)" fill="none"
+        stroke="#013237" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"
+        stroke-dasharray="117">
+        <circle cx="80.5" cy="80.5" r="80.5" stroke="none" />
+        <circle cx="80.5" cy="80.5" r="74.5" fill="none" />
       </g>
     </g>
-    <text id="PastePal" transform="translate(549 274)" fill="#013237" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">PastePal</tspan></text>
+    <text id="PastePal" transform="translate(549 274)" fill="#013237" font-size="40"
+      font-family="Montserrat-Bold, Montserrat" font-weight="700">
+      <tspan x="0" y="0">PastePal</tspan>
+    </text>
   </g>
 </svg>
